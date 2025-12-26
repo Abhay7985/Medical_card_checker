@@ -10,7 +10,6 @@ type Props = {
 
 export default async function AdminPage() {
   const submissions = readSubmissions();
-  console.log(submissions, "submissions");
 
   return (
     <div className="card p-6 bg-white shadow-lg rounded-lg">

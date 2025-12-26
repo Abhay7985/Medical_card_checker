@@ -10,7 +10,6 @@ export default async function StatePage({ params }: { params: Promise<{ slug: st
   const resolvedParams = await params;
   const { slug } = resolvedParams;
 
-  console.log(slug, "params"); 
 
   const state = states.find(s => s.slug === slug);
 

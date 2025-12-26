@@ -1,0 +1,12 @@
+[
+  { "name": "California", "slug": "california", "ageRequirement": 18, "fee": 50, "description": "Medical marijuana card eligibility for California." },
+  { "name": "Texas", "slug": "texas", "ageRequirement": 21, "fee": 40, "description": "Texas medical card eligibility details." },
+  { "name": "New York", "slug": "new-york", "ageRequirement": 18, "fee": 60, "description": "New York medical program eligibility." },
+  { "name": "Florida", "slug": "florida", "ageRequirement": 21, "fee": 35, "description": "Florida medical card program." },
+  { "name": "Illinois", "slug": "illinois", "ageRequirement": 18, "fee": 45, "description": "Illinois medical cannabis eligibility." },
+  { "name": "Nevada", "slug": "nevada", "ageRequirement": 18, "fee": 55, "description": "Nevada medical card information." },
+  { "name": "Washington", "slug": "washington", "ageRequirement": 21, "fee": 50, "description": "Washington state eligibility rules." },
+  { "name": "Oregon", "slug": "oregon", "ageRequirement": 18, "fee": 40, "description": "Oregon medical card details." },
+  { "name": "Arizona", "slug": "arizona", "ageRequirement": 18, "fee": 35, "description": "Arizona eligibility information." },
+  { "name": "Colorado", "slug": "colorado", "ageRequirement": 21, "fee": 45, "description": "Colorado medical card rules." }
+]

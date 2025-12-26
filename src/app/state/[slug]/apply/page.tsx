@@ -80,6 +80,7 @@ export default function ApplyPage() {
   };
 const removeLeadingSpace = (value: string) =>
   value.replace(/^\s+/, '');
+
   return (
     <div
       style={{
